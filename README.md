@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bronco-henry
-- I'm an SDET student learning Java
+- I'm an SDET student learning Java, Python, and networking
 
 <!---
 bronco-henry/bronco-henry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
